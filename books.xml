@@ -1,0 +1,15 @@
+<?xml version="1.0" encode="utf-8"?>
+<buku>
+<books ibsn=1>
+    <judul>Pintar belajar express</judul>
+    <sinopsis>begini loh caranya...</sinopsis>
+    <penulis>roy</penulis>
+    <genre>Teknologi</genre>
+</books>
+<books ibsn=2>
+    <judul>Cara memasak nasi</judul>
+    <sinopsis>jadi begini...</sinopsis>
+    <penulis>mada</penulis>
+    <genre>edukasi</genre>
+</books>
+</buku>
